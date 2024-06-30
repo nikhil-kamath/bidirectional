@@ -1,0 +1,4 @@
+(executable
+ (public_name bidirectional)
+ (name main)
+ (libraries bidirectional))
